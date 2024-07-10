@@ -58,5 +58,5 @@ Você também pode ver a lista de todos os colaboradores que participaram deste 
 Este projeto está sob a licença (sua licença) - veja o arquivo LICENSE.md para detalhes.
 
 🎁 Expressões de gratidão
-Agradeço ao meu grande amigo Dyego Roni Almeida, que trabalha na IBM, 
+Agradeço ao meu grande amigo Dyego Roni Almeida, que trabalha na IBM, gokuuuuuuuuu
 etc.
