@@ -1,5 +1,5 @@
-Título do projeto
-Um parágrafo da descrição do projeto vai aqui
+MVP - Sprint: Engenharia de Dados (40530010057_20240_01)
+Neste projeto, 
 
 🚀 Começando
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
@@ -54,9 +54,7 @@ Um desenvolvedor - Trabalho Inicial - umdesenvolvedor
 Fulano De Tal - Documentação - fulanodetal
 Você também pode ver a lista de todos os colaboradores que participaram deste projeto.
 
-📄 Licença
-Este projeto está sob a licença (sua licença) - veja o arquivo LICENSE.md para detalhes.
 
 🎁 Expressões de gratidão
-Agradeço ao meu grande amigo Dyego Roni Almeida, que trabalha na IBM, gokuuuuuuuuu
-etc.
+Agradeço ao meu grande amigo Dyego Roni Almeida, que trabalha na IBM, na grande ajuda a mim concedida na elaboração deste MVP.
+
